@@ -1,5 +1,6 @@
 
 # 🛍️ Customer Purchase Analysis Dashboard
+<img width="1613" height="903" alt="Image" src="https://github.com/user-attachments/assets/c1ffa4a0-da50-457c-a289-452cbe244151" />
 
 ## 👤 Author Bio
 
